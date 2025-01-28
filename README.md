@@ -1,4 +1,4 @@
-Author: Amir [{UA Email}]  
+Author: Amir Esmaieeli [{UA Email}]  
 Course: Undergrad 433
 Date: [Month]. [Day], 2025
 
